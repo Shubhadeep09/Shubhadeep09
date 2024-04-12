@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shubhadeep09
-- 👀 I’m interested in DATA Engineering 
-- 🌱 I’m currently studying BTech at Kiit University ( 3rd year )
+- 👀 I’m interested in DATA Analytics 
+- 🌱 I’m currently studying BTech at Kiit University ( 4rd year )
 
 - 📫 How to reach me : www.linkedin.com/in/shubhadeep-ghatak
 
